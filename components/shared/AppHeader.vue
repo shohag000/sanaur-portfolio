@@ -70,7 +70,7 @@ export default {
             /> -->
 
             <img
-              src="~/assets/images/logo.png"
+              src="~/assets/images/logo-without-bg.png"
               alt="Color Logo"
               class="w-36 h-6"
             />
